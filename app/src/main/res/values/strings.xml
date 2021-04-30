@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evidence</string>
+    <string name="adding">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="delete_evidence">do you want delete all evidence?</string>
+</resources>
